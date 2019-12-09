@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "version": "0.7.11",
+  "private": false,
   "workspaces": [
     "gridsome",
     "packages/*",
